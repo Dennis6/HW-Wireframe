@@ -1,0 +1,26 @@
+p{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 30px;
+	font-weight: normal 
+}
+
+a:link {
+	color:;
+}
+a:hover{
+	text-decoration: 
+	color:blue;
+	background-color: yellow;
+
+}
+
+a:focus{
+
+}
+a: active{
+	color:red;
+
+}
+a:default{
+
+}
